@@ -1,1 +1,1 @@
-# Eventex (Django APp)
+# Eventex (Django App)
